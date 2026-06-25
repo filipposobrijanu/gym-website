@@ -1,8 +1,8 @@
 <h1 align="center">Gym Website</h1>
-<h3 align="center">Modern Responsive Landing Page & Digital Marketing Interface</h3>
+<h3 align="center">Modern Responsive Landing Page</h3>
 
 <p align="center">
-  A production-ready, fully responsive digital landing platform tailored for a local fitness center. This project implements a modern, mobile-first design strategy, focusing on sleek UI/UX components, optimized asset delivery, and a high-conversion layout to establish an impactful web presence for local businesses.
+  A fully responsive landing platform tailored for a local fitness center. This project implements a modern, mobile-first design strategy, focusing on sleek UI/UX components and optimized asset delivery.
 </p>
 
 <p align="center">
@@ -16,16 +16,7 @@
 
 ---
 
-### ✨ Core Features
-
-* **Mobile-First Fluid Layout:** Engineered using advanced responsive grid patterns and adaptive utility classes via Bootstrap 5 to ensure flawless structural execution across mobile, tablet, and ultra-wide screens.
-* **High-Performance Asset Delivery:** Formatted for rapid initial paint benchmarks by utilizing streamlined resource requests and lightweight layout execution to maximize user retention.
-* **High-Contrast Marketing Aesthetics:** Features a bold, premium typographic layout combined with asymmetric interactive components engineered specifically to drive customer acquisition and gym sign-ups.
-* **Semantic Functional Components:** Organized around clear commercial content segments, incorporating responsive landing hero elements, comprehensive service matrices, pricing layouts, and clean localization forms.
-
----
-
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Core Client Architecture**
 <p align="left">
@@ -47,7 +38,7 @@
 
 ---
 
-### 📸 Interface Showcase
+### Interface Showcase
 
 <p align="center">
   <img src="1/2.PNG" width="48%" />
@@ -59,7 +50,7 @@
 
 ---
 
-### 🚀 Getting Started (Local Development)
+### Getting Started (Local Development)
 
 **1. Clone the repository:**
 ```bash
